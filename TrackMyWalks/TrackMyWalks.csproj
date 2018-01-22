@@ -35,6 +35,7 @@
     <Compile Include="Pages\WalkEntryPage.cs" />
     <Compile Include="Pages\WalkTrailPage.cs" />
     <Compile Include="Pages\DistanceTravelledPage.cs" />
+    <Compile Include="Pages\SplashPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">

@@ -2,6 +2,7 @@
 
 using Xamarin.Forms;
 using TrackMyWalks.Models;
+using System.Collections.Generic;
 
 namespace TrackMyWalks.Pages
 {
