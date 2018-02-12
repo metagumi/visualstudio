@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+
 namespace TrackMyWalks.Pages
 {
     public class SplashPage : ContentPage
@@ -23,8 +24,8 @@ namespace TrackMyWalks.Pages
             splashLayout.Children.Add(image);
 
             Content = new StackLayout() {
-                Children = { splashLayout
-            }};
+                Children = { splashLayout}
+            };
         }
 
         protected override async void OnAppearing() {
